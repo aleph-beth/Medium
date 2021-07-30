@@ -1,5 +1,5 @@
 # Spark in AWS : EMR or Kubernetes
-
+=================================
 
 ## Context
 
@@ -31,6 +31,14 @@ Benefits :
 [![Amazone EMR on Amazon EKS](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2021/03/23/bdb1345-emr-eks-step-functions-1.jpg)]
 
 
+## All services 
+
+### EC2
+
+### EKS
+
+### ECR
+
 # Setting up
 
 ## Install AWS CLI
@@ -58,4 +66,5 @@ You must test you aws cli version :
 
 ## S3
 
+# Biblio
 
